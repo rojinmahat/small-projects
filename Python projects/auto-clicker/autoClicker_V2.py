@@ -82,5 +82,5 @@ clickThread.join()
 
 print("Auto-clicker has been terminated.")
 
-# works. too well infact
-# highest reached with 1ms delay is 0cps. browser couldnt keep up with the spamming. trust me it clicks
+# works
+# needs work on picking up the inputs to stop and start. 
